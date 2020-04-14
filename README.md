@@ -12,3 +12,8 @@ Modules used so far
 
 [Express](https://www.npmjs.com/package/express)
 ``npm install express``
+
+------------------------------------------------------
+Future addons
+[CORS](https://expressjs.com/en/resources/middleware/cors.html)
+``npm install cors``
